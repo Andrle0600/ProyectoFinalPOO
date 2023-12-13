@@ -8,10 +8,10 @@
         <class>Logica.Tuerca</class>
         <exclude-unlisted-classes>false</exclude-unlisted-classes>
         <properties>
-            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/id21638414_ferreteria?serverTimezone=UTC"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://99.000webhost.io:3306/id21638414_ferreteria?serverTimezone=UTC"/>
             <property name="javax.persistence.jdbc.user" value="id21638414_andrelageu"/>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
-            <property name="javax.persistence.jdbc.password" value="andreLAGeu*0607"/>
+            <property name="javax.persistence.jdbc.password" value="Hola*123"/>
             <property name="javax.persistence.schema-generation.database.action" value="create"/>
         </properties>
     </persistence-unit>
